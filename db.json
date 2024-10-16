@@ -1,0 +1,114 @@
+{
+  "flights": [
+    {
+      "id": "1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxRGKF1SMgvjB_U6DWUzDxGYdnSAg5yZ22nQ&s",
+      "name": "Anne Muriuki",
+      "from": "Malindi",
+      "to": "New York",
+      "departureTime": "08:00 AM",
+      "arrivalTime": "08:00 PM",
+      "price": "67000 Ksh",
+      "airline": "Fly Emirates" 
+    },
+    {
+      "id": "2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpx28byDNoC6a10iCtFlkXUMqvNBIqNAtBtw&s",
+      "name": "John Paul",
+      "from": "Mombasa",
+      "to": "South Africa",
+      "departureTime": "12:00 PM",
+      "arrivalTime": "12:00 AM",
+      "price": "47000 Ksh",
+      "airline": "Kenya Air Ways"
+    },
+    {
+      "id": "3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIWg5s8oe2gxbzuW-sK_0_qLDa-IasT9SUg&s",
+      "name": "Billy Joe",
+      "from": "Kisumu",
+      "to": "Dubai",
+      "departureTime": "10:00 AM",
+      "arrivalTime": "02:00 PM",
+      "price": "42500 Ksh",
+      "airline": "Qatar Airways"
+    },
+    {
+      "id": "4",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDK7j6OngcMLjLbgi_V7hJ-u93IgQyfvE6g&s",
+      "name": "Ashley Mwikali",
+      "from": "Eldoret",
+      "to": "Qatar",
+      "departureTime": "05:00 PM",
+      "arrivalTime": "09:00 PM",
+      "price": " 56000 Ksh",
+      "airline": "Etihad Air Ways"
+    },
+    {
+      "id": "5",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7HyIH8Bre0pEMANSIP8Yg0uhoNLjLd9Cxmg&s",
+      "name": "Cecilia Muriuki",
+      "from": "Malindi",
+      "to": "Beijing",
+      "departureTime": "06:00 AM",
+      "arrivalTime": "06:00 PM",
+      "price": "12200 Ksh",
+      "airline": "Egypt Air"
+    },
+    {
+      "id": "6",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV5M0ios_9CmI6y92Kbf-0r_MXsl7CNqVXqw&s",
+      "name": "Joshua Lee",
+      "from": "Germany",
+      "to": "Mombasa",
+      "departureTime": "01:00 PM",
+      "arrivalTime": "01:00 AM",
+      "price": "97000 Ksh",
+      "airline": "Norwegian Air Line"
+    },
+    {
+      "id": "7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ5ffZsgrLwPOxzVEXnprdFcKjSwWxtIwyBQ&s",
+      "name": "Eunice Wanjiru",
+      "from": "Kisumu",
+      "to": "Finland",
+      "departureTime": "07:00 AM",
+      "arrivalTime": "07:00 PM",
+      "price": "163000 Ksh",
+      "airline": "Finish Air Line"
+    },
+    {
+      "id": "8",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwhkX3vE3ihiTtotnJ5wLLfRYm40kcKEcNsQ&s",
+      "name": "Evalyn Ngunjiri",
+      "from": "Eldoret",
+      "to": "Washington DC",
+      "departureTime": "11:00 AM",
+      "arrivalTime": "11:00 PM",
+      "price": "150500 Ksh",
+      "airline": "American Air Line"
+    },
+    {
+      "id": "9",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-M2BaiDjjPbEgROEjhuh9dJOfW0Ir7ZRGuA&s",
+      "name": "Gabriel Kinyua",
+      "from": "Canada",
+      "to": "Nairobi",
+      "departureTime": "09:00 AM",
+      "arrivalTime": "09:00 PM",
+      "price": "105000  Ksh",
+      "airline": "Toronto Air"
+    },
+    {
+      "id": "10",
+      "image": "https://samburunationalreservekenya.com/wp-content/uploads/2022/07/beach-safari-in-kenya-vasco-da-gama-pillar.jpg",
+      "name": "Stengel Wanjiru",
+      "from": "Ireland",
+      "to": "Malindi",
+      "departureTime": "02:00 PM",
+      "arrivalTime": "02:00 AM",
+      "price": "135200 Ksh",
+      "airline": "Fly Emirates"
+    }
+ ]
+}
