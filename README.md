@@ -1,5 +1,5 @@
-# PORTFOLIO
-### The is my Airline Website 
+# PHASE 1 PROJECT - AIRLINE WEBSITE
+### Airline Website 
 ### Date - 16/10/2024
 ### By Anne Muriuki
 ## Description
