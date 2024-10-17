@@ -15,6 +15,7 @@ This project is an airline website designed to create flight bookings,provide th
 ## Live Server
 * You can view the web live [Airline](https://muriukianne.github.io/PHASE-1-PROJECT/)
 * Slides link [Slideslink](https://docs.google.com/presentation/d/1L4yut35C0zaJpItm6q_LVY-EXIy3oEIff_JtFJKH_ts/edit#slide=id.gc6f90357f_0_0)
+* Remder link[Renderlink](https://phase-1-project-22js.onrender.com/flights)
 
 ## Known Bugs
 The application is in good condition and works very well, NO BUGS.
