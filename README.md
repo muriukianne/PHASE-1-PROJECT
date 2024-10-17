@@ -13,7 +13,7 @@ This project is an airline website designed to create flight bookings,provide th
 * And you are good to go
 
 ## Live Server
-* You can view the web live [Airline](http://127.0.0.1:5500/index.html?#)
+* You can view the web live [Airline](http://127.0.0.1:5500/)
 
 ## Known Bugs
 The application is in good condition and works very well, NO BUGS.
