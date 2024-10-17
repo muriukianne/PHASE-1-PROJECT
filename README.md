@@ -21,5 +21,8 @@ The application is in good condition and works very well, NO BUGS.
 ## Technologies Used
 HTML, CSS, Java Script, JSON Server, Bootstrap, Google Icons, GIT
 
+## Problems Faced
+When you have booked , updated or deleted a flight you have to reload the wesite so as the functions to be implemented
+
 ## Support Details
 email :: muriukianne05@gmail.com
