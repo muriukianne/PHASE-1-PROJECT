@@ -1,7 +1,7 @@
 
 
 // Fetch all flight post from the backend
-fetch('http://localhost:3000/flights')
+fetch('https://phase-1-project-22js.onrender.com/flights')
   .then((res) => res.json())
   .then((data) => {
 
@@ -58,7 +58,7 @@ add_form.addEventListener("submit", (event)=>{
       const price= document.getElementById("price").value;
 
     // Sent a POST request to create a new flight post
-      fetch('http://localhost:3000/flights', {
+      fetch('https://phase-1-project-22js.onrender.com/flights', {
         method: 'POST',
         body: JSON.stringify({
           image:image,
@@ -88,7 +88,7 @@ add_form.addEventListener("submit", (event)=>{
 // Added a function to delete a specific flight post by its ID
 function deletePost(id){
  
-  fetch(`http://localhost:3000/flights/${id}`, {
+  fetch(`https://phase-1-project-22js.onrender.com/flights/${id}`, {
     // Specified the delete method
     method: 'DELETE',
   })
@@ -103,7 +103,7 @@ function deletePost(id){
 function editPost(id)
 {
     // fetch the existing flight data for the specified ID
-  fetch(`http://localhost:3000/flights/${id}`)
+  fetch(`https://phase-1-project-22js.onrender.com/flights/${id}`)
   .then((res) => res.json())
   .then((data) => {
 
@@ -189,7 +189,7 @@ function editPost(id)
         const price = document.getElementById("edit_price").value;
   
         // sent a patch request to update the flight post with new data
-        fetch(`http://localhost:3000/flights/${id}`, {
+        fetch(`https://phase-1-project-22js.onrender.com/flights/${id}`, {
           method: 'PATCH',
           body: JSON.stringify({
             image:image,
@@ -219,7 +219,7 @@ function editPost(id)
 
 function viewPost(id){
 
-  fetch(`http://localhost:3000/flights/${id}`)
+  fetch(`https://phase-1-project-22js.onrender.com/flights/${id}`)
   .then((res) => res.json())
   .then((data) => {
 
