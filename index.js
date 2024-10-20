@@ -79,7 +79,7 @@ add_form.addEventListener("submit", (event)=>{
         .then((response) => response.json())
         .then((res) => {
           const message = document.getElementById("message");
-          message.innerText = "Post created Successfully"
+          message.innerText = "Flight created Successfully"
           
         });
 })
@@ -95,7 +95,7 @@ function deletePost(id){
   .then((res)=> res.json() )
   .then((response) =>{
           const message = document.getElementById("delete_message");
-          message.innerText = "Post deleted Successfully"
+          message.innerText = "Flight deleted Successfully"
   })
   }
 
@@ -117,11 +117,11 @@ function editPost(id)
         <form id="update_post_form">
           <div class="mb-3">
             <h5 style="color:black">Image</h5>
-            <input type="text" class="form-control" id="edit_image" value="${data.image}" required placeholder="Title" >
+            <input type="text" class="form-control" id="edit_image" value="${data.image}" required placeholder="Image" >
           </div>
           <div class="mb-3">
             <h5 style="color:black">Name</h5>
-            <input type="text" class="form-control" id="edit_name" value="${data.name}" required placeholder="Title" >
+            <input type="text" class="form-control" id="edit_name" value="${data.name}" required placeholder="Name" >
           </div>
 
         <!-- Dropdown for selecting destination -->
@@ -207,7 +207,7 @@ function editPost(id)
           .then((response) => response.json())
           .then((res) => {
             const update_message = document.getElementById("update_message");
-            update_message.innerText = "Post Updated Successfully"
+            update_message.innerText = "Flight Updated Successfully"
   
         });
     })
