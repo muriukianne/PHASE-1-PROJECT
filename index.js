@@ -162,7 +162,7 @@ function editPost(id)
         </div>
 
         <div class="mb-3">
-            <h5 style="color:black">Dparture Time</h5>
+            <h5 style="color:black">Departure Time</h5>
             <input type="text" class="form-control" id="edit_departureTime" value="${data.departureTime}" required placeholder="Departure Time" >
         </div>
 
